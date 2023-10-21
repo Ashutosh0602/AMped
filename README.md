@@ -3,7 +3,7 @@
 ### [Demo Link](https://amped.onrender.com) 
 
 Audio Store eCommerce Website, built with **React JS**. <br/>
-State management using Context API.
+Building an eCommerce website for an Audio Store using React JS and employing state management through the Context API encompasses a range of components, functions, and pages.
 <br/>
 
 ## Features:
