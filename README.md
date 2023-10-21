@@ -26,6 +26,16 @@ State management using Context API.
 - TailwindCSS
 - SASS
 
+## Why I choose ReactJS for this website?
+- User Interface (UI) Development
+- Component-Based Architecture
+- Virtual DOM
+- Community and Ecosystem
+- Server-Side Rendering (SSR)
+- Scalability
+- State Management
+- Performance Optimization
+
 ## License:
 
 This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
