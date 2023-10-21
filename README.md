@@ -1,6 +1,6 @@
 ## AMped | Ecommerce Web App
 
-### [Demo Link]() 🔗
+### [Demo Link](https://amped.onrender.com) 🔗
 
 Audio Store eCommerce Website, built with **React JS**. <br/>
 State management using Context API.
